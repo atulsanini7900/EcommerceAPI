@@ -15,6 +15,8 @@ MongoDB
   - routes
     - productRoutes.js
   - index.js
+  - package-lock.json
+  - package.json
     
 
 
