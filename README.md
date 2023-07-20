@@ -6,6 +6,18 @@ This is an API for an eCommerce platform to manage product inventory.
 # Tech Stack
 Node.js
 MongoDB
+# Folder Structure
+- eCommerce API
+  - controllers
+    - productController.js
+  - models
+    - productModel.js
+  - routes
+    - productRoutes.js
+  - index.js
+    
+
+
 # Installation
 Clone the repository to your local machine:
 
