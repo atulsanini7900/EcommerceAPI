@@ -11,7 +11,9 @@ Clone the repository to your local machine:
 
 
 
-git clone https://github.com/your-username/eCommerce-api.git
+git repository Link : https://github.com/atulsanini7900/EcommerceAPI
+
+host Link: https://atulsanini7900.github.io/EcommerceAPI/
 
 # Navigate to the project directory:
 cd eCommerce-api
