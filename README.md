@@ -13,6 +13,8 @@ Clone the repository to your local machine:
 
 git repository Link : https://github.com/atulsanini7900/EcommerceAPI
 
+host Link: https://atulsanini7900.github.io/EcommerceAPI/
+
 # Navigate to the project directory:
 cd eCommerce-api
 # Install the dependencies using npm:
